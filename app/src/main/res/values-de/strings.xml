@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Die Uhr Zeigt</string>
+    <string name="_1_minuto">1 Minute</string>
+    <string name="_1_hora">1 Stunde</string>
+    <string name="minutos">" Minuten"</string>
+    <string name="son_las">"Es ist  "</string>
+    <string name="detener_servicio">DIENST STOPPEN</string>
+    <string name="iniciar_servicio">DIENST STARTEN</string>
+    <string name="mantener_dispositivo_activo">Gerät aktiv halten</string>
+    <string name="intervalo_de_anuncio">Ankündigungsintervall:</string>
+    <string name="canal_para_anuncios_peri_dicos_de_hora">Kanal für periodische Stundenansagen</string>
+    <string name="pr_ximo_anuncio">"Nächste Ansage:  "</string>
+    <string name="anunciador_de_hora_activo">Aktiver Stundenansager</string>
+    <string name="_24_horas">24 Stunden</string>
+    <string name="_12_horas">12 Stunden</string>
+    <string name="nueva_actualizacion">Neue Aktualisierung</string>
+    <string name="por_favor_actualiza_la_app">Bitte aktualisiere die App</string>
+    <string name="actualizar">Aktualisieren</string>
+    <string name="title_activity_config">Konfiguration</string>
+    <string name="sistema">System</string>
+    <string name="dark">Dunkel</string>
+    <string name="ligth">Hell</string>
+</resources>
