@@ -1,0 +1,22 @@
+workflows:
+  android-workflow-id:
+    name: Android Sample Workflow
+    max_build_duration: 120
+
+    environment:
+      vars:
+        PACKAGE_NAME: "com.pevalcar.lahoraes"
+      android_signing:
+        - La_Hora_es
+
+    scripts:
+      - name: Set Android SDK location
+        script: |
+          echo "sdk.dir=$ANDROID_SDK_ROOT" > "$CM_BUILD_DIR/local.properties"
+      - name: Build Android release
+        script: |
+          chmod +x ./gradlew  # Agrega permisos de ejecución
+          ./gradlew bundleRelease # -> to create the .aab
+
+    artifacts:
+      - build/outputs/**/*.aab

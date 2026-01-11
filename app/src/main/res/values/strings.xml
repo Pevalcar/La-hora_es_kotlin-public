@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">La Hora Es</string>
+    <string name="_1_minuto">1 minuto</string>
+    <string name="_1_hora">1 hora</string>
+    <string name="minutos">" Minutos"</string>
+    <string name="son_las">"La hora es "</string>
+    <string name="detener_servicio">DETENER SERVICIO</string>
+    <string name="iniciar_servicio">INICIAR SERVICIO</string>
+    <string name="mantener_dispositivo_activo">Mantener dispositivo activo</string>
+    <string name="intervalo_de_anuncio">Intervalo de anuncio:</string>
+    <string name="anunciador_de_hora_activo">Anunciador de hora activo</string>
+    <string name="_24_horas">24 horas</string>
+    <string name="_12_horas">12 horas</string>
+    <string name="nueva_actualizacion">Nueva Actualizacion</string>
+    <string name="por_favor_actualiza_la_app">Por favor actualiza la app</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="title_activity_config">Configuracion</string>
+    <string name="sistema">Sistema</string>
+    <string name="dark">Oscuro</string>
+    <string name="ligth">Claro</string>
+    <string name="dark_mode">"Tema modo: "</string>
+    <string name="dinamico_mode">"Color Dinamico: "</string>
+    <string name="color_tema">"Color del Tema: "</string>
+    <string name="config_theme_title">Colores</string>
+    <string name="config_text_title">Mensajes</string>
+    <string name="config_text_init">Frase inicial</string>
+    <string name="config_text_final">Frase final</string>
+    <string name="servicio_turno_off">Anuncios detenidos</string>
+    <string name="servicio_turno_on">Anuncios Activados</string>
+    <string name="config_battery_title">"Persmisos "</string>
+    <string name="config_partnertitle">Apoyo</string>
+    <string name="suscribe_app">Eliminar publicidad</string>
+    <string name="helpus">Ayuda</string>
+    <string name="shared_app">Compartir</string>
+    <string name="share_app_suptitle">Comparte esta aplicacion con tus amigos</string>
+    <string name="rate_app">Calificanos</string>
+    <string name="rate_app_suptitle">Gracias por el apoyo</string>
+    <string name="config_informacion_title">Informacion</string>
+    <string name="version">Version</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="contact_us">Contactos</string>
+    <string name="contactos">Contactos</string>
+    <string name="actualizacion_no_es_necesaria">Aplicacion Actualizada</string>
+    <string name="actualizacion_necesaria">Requiere Actualizacion</string>
+    <string name="help_asunto">"Ayuda: "</string>
+    <string name="battery_configuration">Para garantizar el correcto funcionamiento de la aplicación, necesitamos que nos otorgues algunos permisos adicionales y configures las opciones de batería de tu dispositivo. Esto nos permitirá ofrecerte una experiencia óptima y sin interrupciones.</string>
+    <string name="bateria_configuration_text">CDATA[- Ve a Ajustes > Batería > Optimización de batería.\\n\\n- Selecciona la aplicación y elige No optimizar.</string>
+    <string name="canal_para_anuncios_periódicos_de_hora">Canal para anuncios periódicos de hora</string>
+    <string name="próximo_anuncio">"Próximo anuncio: "</string>
+    <string name="pr_ximo_anuncio" translatable="false">Siguiente anuncion en:</string>
+    <string name="canal_para_anuncios_peri_dicos_de_hora" translatable="false">canal de anucios hora</string>
+</resources>
